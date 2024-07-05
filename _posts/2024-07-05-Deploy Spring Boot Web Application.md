@@ -2,7 +2,7 @@ I have built a system to deploy Spring Boot projects.
 Since I went through some diggine, I summarized the process.
 
 The configuration diagram of the system I built is as follows:
-![deploy_spring_boot_web_application_diagram.png]({{site.baseurl}}/_posts/deploy_spring_boot_web_application_diagram.png)
+![deploy_spring_boot_web_application_diagram.png]({{site.baseurl}}/images/deploy_spring_boot_web_application_diagram.png)
 
 I am planning to set up a server with an SSH certificate, and the server will be using Rocky Linux.
 
@@ -112,7 +112,7 @@ The default configuration file location is `/etc/nginx`.
 
 `nginx.conf` here is the default configuration file, but in case you need to configure multiple services or create a configuration file for each service, comment out the server content in the default configuration file and create a new configuration file in the `conf.d` directory. to add content.
 
-![nginx_config.png]({{site.baseurl}}/_posts/nginx_config.png)
+![nginx_config.png]({{site.baseurl}}/images/nginx_config.png)
 
 Due to the blue underlined part in the picture above, if you create a configuration file with the `.conf` extension in the `conf.d` directory in the future, it will be read. (The default settings have been commented out.)
 
