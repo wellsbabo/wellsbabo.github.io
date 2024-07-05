@@ -1,3 +1,9 @@
+---
+layout: post
+title:  Deploy spring boot web application
+categories: [SpringBoot,Deploy,Linux]
+---
+
 I have built a system to deploy Spring Boot projects.
 Since I went through some diggine, I summarized the process.
 
