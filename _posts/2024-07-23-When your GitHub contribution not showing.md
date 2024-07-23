@@ -20,7 +20,7 @@ So I will try to explain two things in this article through my experience.
 git config --list
 ```
 Then, the setting values will appear as shown in the picture below, and there will be email information. (It may be different from your GitHub account email)
-![20240723_gitConfig_list.png]({{site.baseurl}}/images/20240723_gitConfig_list.png)
+![20240723_gitConfig_list.png]({{site.baseurl}}/images/20240723_gitConfig_list.PNG)
 
 3. Change email value settings using the commands below. 
 ```bash
