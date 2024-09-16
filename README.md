@@ -49,6 +49,10 @@ bundle exec jekyll serve
 루비 설치 후, WDM 관련 에러 발생할 시 링크 참고 https://velog.io/@ukja2/Jekyll-wdm-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0
 
 
+참고할 공식 문서
+https://chirpy.cotes.page/
+
+
 
 ## Usage
 
