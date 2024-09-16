@@ -37,9 +37,18 @@ Sign in to GitHub and [**use this template**][use-template] to generate a brand 
 
 Then clone it to your local machine and run:
 
+루비 설치할 때 개발 도구도 함께 설치해야함
+
 ```console
 $ bundle
+
+실행 명령
+bundle exec jekyll serve
 ```
+
+루비 설치 후, WDM 관련 에러 발생할 시 링크 참고 https://velog.io/@ukja2/Jekyll-wdm-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0
+
+
 
 ## Usage
 
